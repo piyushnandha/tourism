@@ -1,0 +1,442 @@
+.logo {
+    height: 162px;
+    width: 130px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    z-index: 1;
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+.video0 {
+    height: 40%;
+    width: 100%;
+}
+
+.div1 {
+    margin-left: 690px;
+    margin-top: 10px;
+    position: absolute;
+    top: 20px;
+    color: white;
+    z-index: 1;
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.div2{
+    position: absolute;
+    top: 800px;
+    left: 30px;
+    z-index: 1;
+    
+    color: white;
+    z-index: 10;
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.c19{
+    z-index: 1;
+    position: absolute;
+    right: 0px;
+    top: 200px;
+    padding-left: 60px;
+    padding-top: 40px;
+    
+    font-size:20px;
+    font-family: "Times New Roman";
+    width: 400px;
+    height: 100px;
+    
+    display: flex;
+    background-color: rgba(37, 0, 0, 0.8);
+}
+
+.a1{
+    color: white;
+    text-decoration: none;
+}
+
+.cc19{
+    color: white;
+}
+
+.div11 {
+    transition: 0.2s;
+    z-index: 1;
+}
+
+.div11:hover {
+    font-size: large;
+    
+}
+
+.div12 {
+    transition: 0.2s;
+}
+
+.div12:hover {
+    font-size: large;
+    
+}
+
+.div13 {
+    transition: 0.2s;
+}
+
+.div13:hover {
+    font-size: large;
+}
+
+.img1{
+    height: 380px;
+    width: 480px;
+    position: absolute;
+    top: 870px;
+    left: 250px;
+    transition: 1s;
+}
+
+.img11{
+    position: absolute;
+    font-size: 30px;
+    left: 280px;
+    top: 1200px;
+    color: white;
+}
+.gg{
+    color: white;
+    text-decoration: solid;
+}
+.img1:hover{
+    height: 400px;
+    width: 500px;
+    transition:  1s ease-in-out;
+   
+}
+
+.img2{
+    height: 350px;
+    width: 600px;
+    position: absolute;
+    left: 750px;
+    top: 1100px;
+    transition: 1s;
+}
+
+.img2:hover{
+    height: 370px;
+    width: 620px;
+    transition:  1s ease-in-out;
+}
+
+.img12{
+    position: absolute;
+    font-size: 30px;
+    left: 800px;
+    top: 1370px;
+    color: white;
+}
+
+.img3{
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    left: 330px;
+    top: 1273px;
+    transition: 1s;
+}
+
+.img3:hover{
+    height: 320px;
+    width: 420px;
+    transition:  1s ease-in-out;
+}
+
+.img13{
+    position: absolute;
+    font-size: 30px;
+    left: 350px;
+    top: 1490px;
+    color: white;
+}
+
+.img4{
+    height: 278px;
+    width: 450px;
+    position: absolute;
+    left: 750px;
+    top: 1470px;
+    transition: 1s;
+}
+
+.img4:hover{
+    height: 298px;
+    width: 470px;
+    transition:  1s ease-in-out;
+}
+
+.img14{
+    position: absolute;
+    font-size: 30px;
+    left: 792px;
+    top: 1670px;
+    color: white;
+
+}
+
+.background{
+    width: 100%;
+    height: 1130px;
+}
+
+h1{
+    color: #44040b;
+    text-align: center;
+}
+
+.hr1{
+    border-color: #44040b;
+    width: 800px;
+    height: 0px;
+}
+
+.video1{
+    position: absolute;
+    top: 2200px;
+    left: 180px;
+}
+
+.video2{
+    position: absolute;
+    top: 2200px;
+    right: 180px;
+}
+
+.dimg1{
+    width: 100%;
+    height: 400px;
+}
+
+.dp1{
+    color: white;
+    position: absolute;
+    left: 550px;
+    top: 200px;
+    font-size: 30px;
+}
+
+.dimg2{
+    width: 520px;
+    height: 320px;
+    position: absolute;
+    left: 245px;
+    top: 450px;
+    transition: 1s;
+}
+
+.dimg2:hover{
+    height: 330px;
+    width: 530px;
+    transition:  1s ease-in-out;
+}
+
+.da1{
+    font-size: 25px;
+    color: white;
+    text-decoration: solid;
+    position: absolute;
+    top: 730px;
+    left: 380px;
+    transition: 0.5s;
+}
+
+.da1:hover{
+    font-size:28px ;
+    transition: 0.5s ease-in-out;
+}
+
+.dimg3{
+    width: 520px;
+    height: 320px;
+    position: absolute;
+    top: 450px;
+    left: 800px;
+    transition: 1s;
+}
+
+.dimg3:hover{
+    height: 330px;
+    width: 530px;
+    transition:  1s ease-in-out;
+}
+
+.da2{
+    font-size: 25px;
+    color: white;
+    text-decoration: solid;
+    position: absolute;
+    top: 730px;
+    left: 980px;
+    transition: 0.5s;
+}
+
+.da2:hover{
+    font-size:28px ;
+    transition: 0.5s ease-in-out;
+}
+
+
+.dimg4{
+    width: 520px;
+    height: 320px;
+    position: absolute;
+    top: 800px;
+    left: 800px;
+    transition: 1s;
+}
+
+.dimg4:hover{
+    height: 330px;
+    width: 530px;
+    transition:  1s ease-in-out;
+}
+
+.da3{
+    font-size: 25px;
+    color: white;
+    text-decoration: solid;
+    position: absolute;
+    top: 1080px;
+    left: 1000px;
+    transition: 0.5s;
+}
+
+.da3:hover{
+    font-size:28px ;
+    transition: 0.5s ease-in-out;
+}
+
+
+/*  */
+
+
+.dimg5{
+    width: 520px;
+    height: 320px;
+    position: absolute;
+    top: 800px;
+    left: 245px;
+    transition: 1s;
+}
+
+.dimg5:hover{
+    height: 330px;
+    width: 530px;
+    transition:  1s ease-in-out;
+}
+
+.da4{
+    font-size: 25px;
+    color: white;
+    text-decoration: solid;
+    position: absolute;
+    top: 1080px;
+    left: 350px;
+    transition: 0.5s;
+}
+
+.da4:hover{
+    font-size:28px ;
+    transition: 0.5s ease-in-out;
+}
+
+.a10{
+    color: #260000;
+}
+
+.aimg1{
+    height: 540px;
+    width: 913px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.diva1{
+    background-color: rgba(38, 0, 0, 0.9);;
+    height: 360px;
+    width: 560px;
+    position: absolute;
+    right: 80px;
+    top: 280px;
+}
+
+.ah1{
+    color: white;
+    padding-left: 30px;
+}
+
+.diva2{
+    position: absolute; 
+    top:800px; 
+    left:220px; 
+    color:#675655;
+    height: 500px;
+    width: 700px;
+    text-align:justify;
+}
+
+.c19img1{
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    top: 0;
+}
+
+.c19img2{
+    height: 436px;
+    width: 520px;
+    position: absolute;
+    left: 200px;
+    top: 500px;
+}
+
+.listLink{
+    position: absolute;
+    top: 600px;
+    left: 800px;
+    
+}
+
+.pt1{
+    background-color: #860038;
+    height: 500px;
+    width: 600px;
+    position: absolute;
+    top: 460px;
+    left: 460px;
+}
+
+.pt11{
+    position: relative;
+    left: 200px;
+    font-size: 23px;
+    color: white;
+}
+
+.pt111{
+    color: white;
+    position: relative;
+    left: 20px;
+   
+}
+
